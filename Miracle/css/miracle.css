@@ -1,0 +1,345 @@
+html{
+	scroll-behavior: smooth;
+}
+.head{
+	text-transform: uppercase;
+	text-align:center;
+	margin-right: 10%;
+	font-family: Bree Serif;
+	text-shadow: 2px 2px 2px #fff;
+	color: green;
+	font-weight: bold;
+}
+.logo{
+	margin-left: 30%;
+	margin-top: -8%;
+	user-drag: none;
+	 -moz-user-select: none;
+	  -webkit-user-drag: none;
+}
+#profile{
+	color: red;
+	font-family: Bree Serif;
+	font-size: 25px;
+	
+}
+#profile2{
+color: #fff;
+font-family: Bree Serif;
+font-size: 25px;
+
+}
+.zone{
+	color: rgb(255, 0, 0 ,10);
+}
+.marquee{
+	font-family: open sans;
+	font-weight: bold;
+	color: #433;
+	text-shadow: 1px 1px 1px green;
+}
+.about{
+	color: green;
+	font-family: Bree Serif;
+}
+.history{
+	font-family: calibri light;
+	margin-top: -6%;
+	font-weight: bold;
+}
+#more{
+	display: none;
+}
+.come{
+	background: linear-gradient(to bottom, #00FF00  0%, #3CB371 100%);
+}
+.xs{
+	color: #fff;
+	font-family: calibri light;
+	line-height: 1.5rem;
+	font-size: 20px;
+	font-weight: bold;
+	
+}
+.btn-outline-weekly {
+  color: #dc3545;
+  border-color: #dc3545;
+  font-size: 20px;
+  font-family: open sans;
+}
+
+.btn-outline-weekly:hover {
+  color: #fff;
+  background-color: #2193b0;
+  border-color: #dc3545;
+}
+.title{
+	font-family: Bree Serif;
+	font-size: 15px;
+	color: green;
+}
+.act{
+	font-family: calibri light;
+	font-size: 22px;
+	font-weight: bold;
+	
+}
+.icons{
+	width: 15%;
+	padding: 2%;
+}
+.card:hover{
+	background-color: #e0eee0;
+	transition: 1s ease;
+}
+.pastor{
+	font-family: Bree Serif;
+	color: red;
+}
+.card{
+	border-top: 4px solid green;
+	border-bottom: 4px solid green; 
+	transition: 1s ease;
+}
+.meet{
+	font-family: Bree Serif;
+	text-transform: uppercase;
+}
+.time{
+	color:#000;
+	font-family: Bree Serif;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+.time2{
+	font-family: calibri light;
+	font-weight: bold;
+	color: red;
+}
+.study{
+	font-family: open sans;
+	font-weight: bold;
+}
+.flier{
+	width: 100%;
+}
+.pst{
+	width: 65%;
+}
+.pst1{
+	width: 59%;
+}
+.vision{
+	line-height: 1.5rem;
+	font-family: open sans;
+	font-weight: bold;
+	font-size: 13.5px; 
+}
+.contact{
+	color: green;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-family: calibri light;
+	font-weight: bold;
+}
+footer{
+	background-color: #ccc;
+}
+.footer_add{
+	font-family: calibri light;
+	font-weight: bold;
+}
+.footer_head{
+	font-family: Bree Serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+.last{
+	background-color: #000;
+	color: #fff;
+}
+.icon{
+	width: 8%;
+	padding: 2%;
+}
+.bg_img{
+	background-image: url(../img/bi.jpg);
+	background-attachment: fixed;
+	background-position: bottom;
+	
+	
+}
+.jesus{
+	font-size: 50px;
+	font-family:  Bree serif;
+	color: #fff;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.services{
+	font-family: Bree Serif;
+	color: green;
+}
+.h1{
+	font-family: Bree serif;
+	font-size: 18px;
+	color: green;
+	text-transform: uppercase;
+	text-align: center;
+}
+.list{
+	font-family: Open Sans;
+	font-weight: bold;
+	color: #fff;
+	line-height: 1.9rem;
+}
+#login{
+	background:  linear-gradient(to bottom, #2193b0  0%, #6dd5ed 100%);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.form{
+	margin-top: 70%;
+
+}
+.lab{
+	color: green;
+	font-weight: bold;
+	font-family: open sans;
+	text-transform: uppercase;
+}
+.error{
+	font-family: open sans;
+	font-size: 18px;
+	font-weight: bold;
+	color: red;
+	text-transform: uppercase;
+}
+.table{
+	font-family: open sans;
+	text-align: center;
+}
+.clearfix{
+	clear: both;
+}
+label{
+	font-family: calibri light;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: bold; 
+}
+.att_form{
+	border: 2px solid green;
+	padding: 30px;
+	border-radius: 4px;
+	padding-top: 12px; 
+}
+.att{
+	font-family: Bree serif;
+	font-size: 20px;
+}
+.symbol{
+	width: 20%;
+}
+.fin{
+	background:  linear-gradient(to bottom, #00FF00 0%, #B0FF00  100%);
+	background-position: center center;
+	color: #fff;
+	text-align: center;
+	font-family: Tahoma;
+	font-size: 12px;
+	
+}
+.fing{
+	font-family: open sans;
+	font-weight: bold;
+	color: #433;
+	text-shadow: 1px 1px 1px green;
+}
+.content{
+	border: 2px solid #000;
+	padding: 25px;
+}
+.alt{
+	text-transform: uppercase;
+	font-family: open sans;
+	color: red;
+}
+.ad_det{
+	font-family: open sans;
+	font-size: 20px;
+}
+.up_form{
+	border: 2px solid #332;
+	padding: 15px;
+	margin-top: 20%;
+}
+.required{
+	color: red;
+}
+.btn-success{
+	font-size: 16px;
+	font-family: calibri light;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.card > .card-header > h2{
+	font-family: Bree Serif;
+	text-transform: uppercase;
+}
+thead > tr > th{
+	font-family: calibri light;
+	font-size: 16px;
+	text-transform: uppercase;
+}
+tbody > tr > td{
+	font-family: Bree Serif;
+}
+.rem{
+	padding: 23px;
+	border: 2px solid green;
+}
+.img_name{
+	font-family: Bree Serif;
+	font-size: 16px;
+}
+.img_date{
+	font-family: Bree Serif;
+	color: red;
+	font-size: 14px; 
+
+}
+#sidemenu{
+	color: #fff;
+	font-family: open sans;
+	font-size: 14px;
+	font-weight: lighter;
+
+}
+#alert{
+	color: green;
+}
+.saving_seat{
+	color: #fff;
+	font-family: Bree Serif;
+	font-weight: bold;
+
+}
+.fig{
+	width: 100%;
+
+}
+.fig2{
+	width: 100%;
+	height: 300px;
+}
+.mz{
+	color: #fff;
+	font-family: Bree Serif;
+	text-transform: uppercase;
+}
+
+.dgo{
+	margin-left: 15%;
+	text-align: center;
+}
